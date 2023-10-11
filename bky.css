@@ -1,0 +1,42 @@
+.col-lg-7 rr{
+    text-align: right;
+}
+/*#u1{
+    padding-left: -1px;
+}*/
+#t1{
+    text-align: justify;
+    color:black;
+    font-size: larger;
+}
+#t2{
+    color:blue;
+    font-style: normal;
+}
+#t3{
+    color:black;
+}
+/*#m1{
+    padding-left: 4px;
+}*/
+#s1{
+    display:flex;
+    flex-wrap: wrap;
+padding-left: 2px;
+}
+#k1{
+    padding-left: 2px;
+
+    background-color: rgb(1, 1, 77);
+}
+i{
+    color:white;
+}
+#q1{
+    color: white;
+    font-size:x-large;
+}
+#o1{
+    color: rgb(232, 231, 231);
+    font-size:medium;
+}
